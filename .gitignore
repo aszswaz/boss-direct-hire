@@ -1,0 +1,11 @@
+
+### python
+/venv
+
+### cmake
+/compile_commands.json
+/build
+
+### other
+/web
+/notebook.md
